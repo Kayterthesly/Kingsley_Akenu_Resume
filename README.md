@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Data+Analytics+%7C+Prompt+Engineering;Experienced+In+Analytics+and+Workflow+Optimization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Vibe+Coder+%7C+Prompt+Engineering;Experienced+In+Analytics+and+Workflow+Optimization" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -13,8 +13,9 @@
 </p>
 
 ## 🚀 About Me 
-I'm a Data Scientist & Analytics Professional skilled in SQL, Python, Tableau, Power BI, and Excel, with expertise in predictive modeling, dashboard design, and business intelligence. Certified in Google Data Analytics and trained through Harvard’s Aspire Leadership Program, I bridge data-driven insights and strategic communication to deliver measurable impact across finance, retail, and technology.
+Data Scientist & Analytics Engineer | AI-Driven Insights & Predictive Modeling
 
+High-impact Data Professional with 3+ years of experience transforming raw datasets into actionable intelligence across Retail, E-commerce, and Finance. Expert in evolving traditional BI workflows into advanced machine learning pipelines using Python (Pandas, Scikit-learn), SQL, and Cloud-integrated dashboards (Power BI, Tableau). Proven track record of engineering predictive models for customer behavior, optimizing campaign ROI, and operationalizing analytics with AI prompt engineering. A technical leader dedicated to bridging the gap between business strategy and data science, empowering organizations with scalable, production-ready insights that drive measurable growth.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://kayterthesly.github.io/Kayterthesly/)
