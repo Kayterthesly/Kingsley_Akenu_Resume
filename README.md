@@ -13,9 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-Data Scientist & Analytics Engineer | AI-Driven Insights & Predictive Modeling
-
-High-impact Data Professional with 3+ years of experience transforming raw datasets into actionable intelligence across Retail, E-commerce, and Finance. Expert in evolving traditional BI workflows into advanced machine learning pipelines using Python (Pandas, Scikit-learn), SQL, and Cloud-integrated dashboards (Power BI, Tableau). Proven track record of engineering predictive models for customer behavior, optimizing campaign ROI, and operationalizing analytics with AI prompt engineering. A technical leader dedicated to bridging the gap between business strategy and data science, empowering organizations with scalable, production-ready insights that drive measurable growth.
+Data Scientist & Analytics Engineer with 3+ years of experience delivering actionable insights across Retail, E-commerce, and Finance. Skilled in transforming BI workflows into machine learning pipelines using Python, SQL, and interactive dashboards. Proven success in predictive modeling, campaign optimization, and operationalizing analytics with AI prompt engineering.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://kayterthesly.github.io/Kayterthesly/)
